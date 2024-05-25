@@ -1,6 +1,6 @@
 ### Hi there 👋
 - ⚡ Fun fact: Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=hello+bro.)](https://git.io/typing-svg)
 <!--
 **Supchik22/Supchik22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
